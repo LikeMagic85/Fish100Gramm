@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157786580015",
+    "project_id": "fish100gram",
+    "storage_bucket": "fish100gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157786580015:android:d7a4df04b8ea914695d2da",
+        "android_client_info": {
+          "package_name": "com.like_magic.fish100gramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157786580015-667im7flfil6t00rqh72i12uulosup5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHYsjKXXgVSNw-iFrmEBYTAzu4rKRX48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157786580015-667im7flfil6t00rqh72i12uulosup5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
