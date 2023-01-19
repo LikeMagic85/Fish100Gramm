@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fish100Gramm</string>
+    <string name="main">Лента</string>
+    <string name="trips">Поездки</string>
+    <string name="message">Сообщения</string>
+    <string name="account">Профиль</string>
 </resources>
